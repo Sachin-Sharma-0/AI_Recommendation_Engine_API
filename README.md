@@ -35,8 +35,8 @@ Returns the top 10 product recommendations for the given user ID.
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/AI_Recommendation_Task.git
-   cd AI_Recommendation_Task
+   git clone https://github.com/yourusername/AI_Recommendation_Engine_API.git
+   cd AI_Recommendation_Engine_API
 
 2. **Install Dependencies**
    ```bash
