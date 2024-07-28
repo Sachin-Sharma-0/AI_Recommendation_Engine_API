@@ -62,9 +62,11 @@ Returns the top 10 product recommendations for the given user ID.
 
 ## Evaluation
 Evaluate the model performance using `evaluation.py`:
-```bash
-python evaluation.py
+   ```bash
+   python evaluation.py
+   ```
 
-
-
+## Tips
+- Run `Dataset.py' to create dataset if not set automatically
+- Contact me for any problem.
 
