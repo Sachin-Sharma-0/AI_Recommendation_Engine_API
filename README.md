@@ -11,6 +11,7 @@ This project implements an AI-powered recommendation engine to provide personali
 - [API Endpoints](#api-endpoints)
 - [Setup Instructions](#setup-instructions)
 - [Evaluation](#evaluation)
+- [Tips](#Tips)
 
 ## Project Overview
 This project implements a recommendation engine using collaborative filtering to provide personalized product recommendations based on user behavior.
