@@ -68,6 +68,10 @@ Evaluate the model performance using `evaluation.py`:
    ```
 
 ## Tips
+- Order of File run Dataset.py (Always first)->filtering.py->evaluation.py->flaskApi.key (Always Last)
 - Run `Dataset.py' to create dataset if not set automatically
+- Searchable Ids according to Demo Dataset are 196, 186, 22, 244 and 166
+- To use another database then demo, add a direct dataset zip link in Dataset.py
+- Output of the API is Item_Id and it's predictive rating with respect to provided Id
 - Contact me for any problem.
 
